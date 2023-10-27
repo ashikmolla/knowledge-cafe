@@ -1,0 +1,34 @@
+.cartTitleClickAdd:hover{
+    background-color: white;
+}
+/* .cart{
+    position: sticky;
+    top:0
+} */
+.cart-summary{
+    background: #1111110D;
+    padding: 5px 10px 1px 15px;
+    border-radius: 10px;
+    
+   
+    
+  }
+  .cart-summary h6{
+  
+    font-size: 24px;
+    font-weight: 700;
+    margin-top: 10px;
+  }
+  
+  .cart-summary h1{
+   padding: 15px;
+   border-radius: 10px;
+   font-size: 20px;
+   margin-top: 5px;
+   display: block;
+  }
+  /* .cart-summary h1:hover{
+
+    background: none;
+  }
+   */

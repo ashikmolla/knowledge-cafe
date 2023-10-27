@@ -1,0 +1,67 @@
+.programming {}
+
+.programming img {
+    width: 100%;
+    height: 451px;
+}
+
+.user {
+
+    display: grid;
+    grid-template-columns: 1.5fr 7fr 2fr;
+    align-items: center;
+}
+
+.user-detailes-container {
+    margin-top: 35px;
+}
+
+.user-detailes-container h6 {
+    font-size: 40px;
+    font-weight: 700;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.user-detailes-container button {
+    margin-bottom: 50px;
+    background: none;
+    color: blue;
+    text-decoration: underline blue;
+    font-family: Exo 2;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+.user-detailes-container button:hover{
+
+    border-color:white
+}
+
+.user p {
+    font-size: 15px;
+    font-weight: 500;
+    margin-left: 2px;
+    color:rgb(116, 115, 115)
+}
+
+.user img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+
+}
+
+.user-detailes h1 {
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.user-detailes p {
+    font-size: 16px;
+    font-weight: 600;
+    color:rgb(116, 115, 115)
+}
